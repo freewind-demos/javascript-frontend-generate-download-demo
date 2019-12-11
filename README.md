@@ -1,6 +1,9 @@
-Js Hello World Demo
+JavaScript Frontend Generate Download Demo
 ===================
 
-Open `index.html` in your browser.
+如何在前端产生一个Download下载
 
-You will see "Hello, JS!" on the page.
+```
+npm install
+npm run demo
+```
